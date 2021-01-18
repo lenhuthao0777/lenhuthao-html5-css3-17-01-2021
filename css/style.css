@@ -571,3 +571,20 @@ body {
     margin-top: 30px;
 }
 /* END CONTACT */
+#footer{
+    background: #00cdce;
+    padding: 30px 0;
+}
+.footer-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-heading{
+    font-size: 1rem;
+    color: #fff;
+}
+.footer-heading a{
+    text-decoration: none;
+    color: brown;
+}
